@@ -1,0 +1,19 @@
+/*styles for assignment 3*/
+form {
+  margin: auto;
+  text-align: center;
+  font-size: 150%;
+  color: #A52A2A;
+}
+h2 {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 150%;
+  text-align: center;
+  color: #A52A2A;
+}
+.button{
+  margin: 10px;
+}
+label{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
